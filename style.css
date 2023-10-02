@@ -7,13 +7,13 @@
 }
 
 body{
-    background-color: #fafafa;
+    background-color: hsl(36, 100%, 99%);
     margin: 0 3em;
     font-size: 15px;
     font-family: 'Inter', sans-serif;
 }
 header{
-    background-color: #fafafa;
+    background-color: hsl(36, 100%, 99%);
     
 }
 .navbar{
@@ -62,7 +62,7 @@ header{
     height: 460px;
 }
 #rightToImage h2{
-    color: #FFD700;
+    color: hsl(35, 77%, 62%);
     padding-top: 24px;
     padding-left: 14px;
     padding-bottom: 0;
@@ -102,7 +102,7 @@ header{
     color: #808080;
 }
 #readmore{
-    background-color: #FF4433;
+    background-color: hsl(5, 85%, 63%);
     border: none;
     color: #E5E4E2;
     text-align: center;
@@ -144,15 +144,12 @@ header{
 }
 
 footer{
-    background: #111;
+    background: #000000;
     padding: 20px 23px;
     color: #fff;
     text-align: center;
 }
 footer span a{
-    color: #09e832;
+    color: hsl(35, 77%, 62%);
     text-decoration: none;
-}
-footer span a:hover{
-    text-decoration: underline;
 }
